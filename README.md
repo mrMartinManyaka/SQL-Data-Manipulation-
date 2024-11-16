@@ -18,3 +18,7 @@ Writing SQL queries for different given business scenarios/cases.
 ## Occupations Scenario
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/occupationScenario.PNG)
 - [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/occupationsQuery.PNG)
+
+## Top Competitors Scenario
+- [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/topCompetitorsScenarioM.png)
+- [SQL Query]()
