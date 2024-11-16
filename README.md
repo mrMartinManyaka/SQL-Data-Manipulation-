@@ -9,4 +9,4 @@ Writing SQL queries for different given business scenarios/cases.
 
 ## Employees Scenario
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/employeeScenario.PNG)
-- [SQL Query]()
+- [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/employeeQuery.PNG)
