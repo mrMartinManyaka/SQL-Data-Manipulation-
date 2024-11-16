@@ -21,4 +21,4 @@ Writing SQL queries for different given business scenarios/cases.
 
 ## Top Competitors Scenario
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/topCompetitorsScenarioM.png)
-- [SQL Query]()
+- [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/topCompetitorsQuery.PNG)
