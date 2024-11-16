@@ -13,4 +13,4 @@ Writing SQL queries for different given business scenarios/cases.
 
 ## Contest Leaderboard Scenario
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/constestScenario.PNG)
-- [SQL Query]()
+- [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/ContestLeaderBQuery.PNG)
