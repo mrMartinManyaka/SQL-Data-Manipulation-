@@ -5,4 +5,4 @@ Writing SQL queries for different given business scenarios/cases.
 
 ## Companies Scenario
 - [Scenario1](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/companyScenario.PNG)
-- [SQL query]
+- [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/companyquery.PNG)
