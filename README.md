@@ -7,13 +7,13 @@ Writing SQL queries for different given business scenarios/cases.
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/companyScenario.PNG)
 - [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/companyquery.PNG)
 
-## Employees Scenario
-- [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/employeeScenario.PNG)
-- [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/employeeQuery.PNG)
-
 ## Contest Leaderboard Scenario
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/constestScenario.PNG)
 - [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/ContestLeaderBQuery.PNG)
+
+## Employees Scenario
+- [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/employeeScenario.PNG)
+- [SQL Query](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/employeeQuery.PNG)
 
 ## Occupations Scenario
 - [Scenario](https://github.com/mrMartinManyaka/SQL-Data-Manipulation-/blob/main/occupationScenario.PNG)
